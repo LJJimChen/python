@@ -1,2 +1,2 @@
 # python
-python项目
+python项目。
