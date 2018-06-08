@@ -1,4 +1,5 @@
 import testmodule
+import datetime
 msg = "hello world"
 print(msg)
 
